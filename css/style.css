@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "Vollkorn", Georgia, serif;
+}
+
+.container {
+  display: grid;
+}
+
+.header {
+  background: #8844ee;
+}
+
+img {
+  max-width: 100px;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
