@@ -27,4 +27,4 @@
 
 ---
 
-### Desenvolvido por [Pedro Bento](https://github.com/pedrvv/).
+### 👨‍💻 Desenvolvido por [Pedro Bento](https://github.com/pedrvv/).
