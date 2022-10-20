@@ -1,28 +1,12 @@
-* {
-  margin: 0px;
-  padding: 0px;
-}
+@import "./global/global.css";
 
-body {
-  font-family: "Vollkorn", Georgia, serif;
-}
+@import "./global/header.css";
+@import "./home/sidenav.css";
 
-.container {
-  display: grid;
-}
+@import "./home/main.css";
 
-.header {
-  background: #8844ee;
-}
+@import "./home/anuncios.css";
 
-img {
-  max-width: 100px;
-}
+@import "./global/footer.css";
 
-li {
-  list-style: none;
-}
-
-a {
-  text-decoration: none;
-}
+@import "./global/responsive.css";
