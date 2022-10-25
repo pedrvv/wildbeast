@@ -13,7 +13,7 @@
 
 ## 💡 Visualizar
 
-#### 🔗 Clique em [Wildbeast](https://pedrvv-gridlayout.netlify.app/) para conferir.
+#### 🔗 Clique em [Wildbeast](pedrvv-wildbeast.netlify.app para conferir.
 <div align="center">
   <img src="https://i.imgur.com/VWIpzTT.png" title="source: imgur.com" />
 </div>
