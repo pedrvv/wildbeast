@@ -13,16 +13,9 @@
 
 ## 💡 Visualizar
 
-#### 🔗 Clique em [Wildbeast](pedrvv-wildbeast.netlify.app para conferir.
+#### 🔗 Clique em [Wildbeast](https://pedrvv-wildbeast.netlify.app/) para conferir.
 <div align="center">
-  <img src="https://i.imgur.com/VWIpzTT.png" title="source: imgur.com" />
-</div>
-
----
-
-## 📱 Responsivo
-<div align="center">
-  <img src="https://i.imgur.com/uAOPVJz.png" title="source: imgur.com" />
+  <img src="https://i.imgur.com/VWIpzTT.png" title="Wildbeast" />
 </div>
 
 ---
